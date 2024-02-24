@@ -1,0 +1,11 @@
+- Variável é uma posição reservada na memória RAM pelo nosso programa para armazenamento de dados, de informações. 
+- Temos que entender as rotinas para declaração e atribuição de variáveis. 
+- Quando falo DECLARAR uma variável significa CRIAR uma variável. 
+- Quando falo em atribuir uma variável significa que estou adicionando um valor nesta variável.
+- O C# é uma linguagem fortemente tipada, assim como o C++. Temos que especificar o tipo de dado que eu quero armazenar naquela variável.
+- O apóstrafo (‘ ’) é o limitador para o caractere do char e as aspas(“ ”) é o limitador para a variável string que não é uma variável primitiva. 
+- Float é reservada para ponto flutuante.
+- String é um conjunto de caracteres, como se eu tivesse vários char dentro de uma string. 
+- A string pode armazenar um texto maior, diferente do char que pode armazenar somente um caracter. 
+- int num = 0  Estou atribuindo o valor 0 a variável num
+- int é um tipo primitivo de dado
